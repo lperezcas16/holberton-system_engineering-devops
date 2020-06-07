@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n3 iactacase
+head -n 3 iactacase | tail -n 1
