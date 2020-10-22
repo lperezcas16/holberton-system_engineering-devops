@@ -1,1 +1,7 @@
 #!/usr/bin/env bash
+#script that displays The content of the current directory
+list="$(ls)"
+for counter in $list; 
+do
+    echo "$counter" | cut -d'-' -f 2
+done
