@@ -1,1 +1,6 @@
 #!/usr/bin/env bash
+# read and cut in a file
+while IFS= read  line 
+do 
+	echo "$line" | cut -d ":" -f 1,3,5
+done < /etc/passwd
