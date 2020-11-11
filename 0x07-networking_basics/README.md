@@ -83,8 +83,14 @@ The terms internet and World Wide Web are often used interchangeably, but they a
 *  It is the default name used to establish a connection with your computer using the loopback address network
 ### What is a subnet
 *  One goal of a subnet is to split a large network into a grouping of smaller, interconnected networks to help minimize traffic. This way, traffic doesn't have to flow through unnecessary routs, increasing network speeds.
+  
 ### Why IPv6 was created
+
+<div align="center">
+<img src="images/ipv6.jpg" width=100 />
+</div>
 * 
+
 ---
 
 ### [0. OSI model](./0-OSI_model)
