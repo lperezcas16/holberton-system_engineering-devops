@@ -14,7 +14,7 @@ Read or watch:
 What you should learn from this project:
 
 ### What is localhost/127.0.0.1
-* The IP address 127.0.0.1 is a special-purpose IPv4 address and is called the localhost or loopback address. All computers use this address as their own, but it doesn't let computers communicate with other devices as a real IP address does. 127.0.0.1 has one specific purpose of allowing a device to send messages to itself. See more --> [LifeWire](https://www.lifewire.com/network-computer-special-ip-address-818385)
+* The IP address 127.0.0.1 is a special-purpose IPv4 address and is called the localhost or loopback address. All computers use this address as their own, but it doesn't let computers communicate with other devices as a real IP address does. 127.0.0.1 has one specific purpose of allowing a device to send messages to itself. You can also call it a **loopback network interface**. See more --> [LifeWire](https://www.lifewire.com/network-computer-special-ip-address-818385)
 ### What is 0.0.0.0
 * This IP address is structured like a regular one (it has four places for numbers). However, it's a placeholder address or one that's used to describe that there isn't a normal address assigned—neither public nor private. For example, instead of putting no IP address into the network area of a program, 0.0.0.0 can be used to mean anything from accept all IP addresses or block all IP addresses to the default route. See more --> [LifeWire](https://www.lifewire.com/four-zero-ip-address-818384)
 ### What is /etc/hosts
