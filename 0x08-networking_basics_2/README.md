@@ -11,12 +11,15 @@ Read or watch:
 ## Learning Objectives:bulb:
 What you should learn from this project:
 
-* What is localhost/127.0.0.1
-* What is 0.0.0.0
-* What is /etc/hosts
-* How to display your machine’s active network interfaces
+### What is localhost/127.0.0.1
+* 
+### What is 0.0.0.0
+*
+### What is /etc/hosts
+* 
+### How to display your machine’s active network interfaces
 
----
+---x
 
 ### [0. Localhost](./0-localhost)
 * What is localhost?

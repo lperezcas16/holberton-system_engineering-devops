@@ -1,1 +1,3 @@
 #!/usr/bin/env bash
+# Open 98 port
+nc -lk 98
