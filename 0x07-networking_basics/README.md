@@ -71,7 +71,7 @@ Read or watch:
 
 ## What is the Internet :blue_heart:
 
-<img src="images/internet.jpg" width=200/>
+<img src="images/internet.jpg" width=350/>
 </div>
 
 ### What is an IP address
