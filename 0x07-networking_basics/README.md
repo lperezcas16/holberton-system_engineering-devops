@@ -89,7 +89,7 @@ The terms internet and World Wide Web are often used interchangeably, but they a
 <div align="center">
 <img src="images/ipv6.jpg" width=100 />
 </div>
-* 
+   * IPv6 addressing has been introduced as in today’s modern connected world there are not enough addresses in the IPv4 range to accommodate all the connected devices. IPv6 is a broader, more spacious and efficient addressing system that can accommodate far more devices more effectively and as it grows IPv4 addressing will slowly be phased out.
 
 ---
 
