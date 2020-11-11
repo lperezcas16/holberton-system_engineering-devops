@@ -37,7 +37,7 @@ Read or watch:
 
 ---
 
-## What is a **LAN**
+## What is a **LAN** :computer:
  A local area network (**LAN**) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school.
   
 <img src="images/Lan.jpeg"/>
@@ -54,7 +54,7 @@ Read or watch:
 
 <div align="center">
 
-##  What is a **WAN**
+##  What is a **WAN** :city_sunset:
  Short for wide area network, a WAN is a collection of computers and devices connected by a communications network over a wide geographic area. Wide area networks are commonly connected either through the Internet or special arrangements made with phone companies or other service providers.
   
 <img src="images/Wan.jpeg"/>
@@ -113,4 +113,4 @@ The terms internet and World Wide Web are often used interchangeably, but they a
 ---
 
 ## Author
-* **Laura Perez** - [lperezcas16](https://github.com/lperezcas16)
+* **Laura Perez** - [lperezcas16](https://github.com/lperezcas16) :smiley_cat:
