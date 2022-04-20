@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# COnfigure ngnix to redirect to another page
+sudo apt-get update
+sudo apt-get -y install nginx
+echo "Holberton School" | sudo tee /var/www/html/index.html
+echo "Cici n'est pas une page" > /user/share/html/custom_404.html
+sed -i '/listen 80 default_server/a rewrite ^/redirect_me https://twitter.com/hoodieslover/status/1290095896059764737?s=19 permanent;' /etc/nginx/sites-available/default
+sed -i '/listen 80 default_server/a error_page 404 /custom_404.html; location = /custom_404.html {root /usr/share/nginx/html;\n internal;}' /etc/nginx/sites-available/default
+sudo nginx -t
+sudo service nginx restart
+
