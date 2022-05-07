@@ -1,5 +1,7 @@
-# SSH config
-Host 35.231.73.136
-IdentityFile ~/.ssh/holberton
-PasswordAutentication no
-
+#!/usr/bin/env bash
+# Configuration file for the SSH client
+Host Holbie
+ HostName 35.231.224.229
+ User ubuntu
+ PasswordAuthentication no 
+ 
