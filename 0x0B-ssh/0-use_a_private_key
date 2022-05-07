@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Connect to Holberton remote server using private key
-ssh -i ~/.ssh/holberton ubuntu@35.231.224.229
+ssh -i ~/.ssh/school ubuntu@35.231.224.229
 
